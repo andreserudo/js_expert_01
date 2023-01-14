@@ -1,12 +1,12 @@
 [
   {
-    "id": "0dc3d13d-6237-4431-b635-3dc75f549605",
-    "name": "SUV",
+    "id": "96302a04-f8bb-401f-a9df-8b980dc88219",
+    "name": "Passenger Van",
     "carIds": [
-      "116ae7b2-7019-4f9e-9ad0-6d4ddd8d08d6",
-      "beb74905-28b2-42c6-8660-cabe60d3111f",
-      "c4e47758-45b7-4e56-9e91-ac677486f246"
+      "6adc6ed0-deb0-40e6-8882-198984ab893c",
+      "b3e9d589-de57-47a1-87f7-eb9f5adc4286",
+      "0831cfa2-a2e0-4eea-8013-31956bf6e859"
     ],
-    "price": 94.89
+    "price": 98.29
   }
 ]
